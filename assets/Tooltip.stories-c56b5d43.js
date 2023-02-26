@@ -1,0 +1,2 @@
+import{j as t}from"./jsx-runtime-bc97d97b.js";import{e as o,B as r}from"./index-56be5ac4.js";import"./index-ee5912ad.js";import"./iframe-0c4e00e1.js";import"./index-d54f3506.js";const l={title:"Calendar/Tooltip",component:o,args:{content:"21 de Outubro - Indisponível",children:t(r,{css:{width:"4rem",height:"3rem"}})},argTypes:{content:{control:{type:"text"}},children:{control:{type:null}}}},m={},a=["Primary"];export{m as Primary,a as __namedExportsOrder,l as default};
+//# sourceMappingURL=Tooltip.stories-c56b5d43.js.map
