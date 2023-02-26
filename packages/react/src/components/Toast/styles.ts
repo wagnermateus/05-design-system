@@ -1,5 +1,5 @@
 import * as Toast from '@radix-ui/react-toast'
-import { styled } from '@stitches/react'
+import { styled } from '../../styles'
 
 export const ToastContainer = styled(Toast.Root, {
   width: '22.5rem',
